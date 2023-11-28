@@ -1,0 +1,1 @@
+run with mpirun -np 6 ./MPI_SEND_RECV
